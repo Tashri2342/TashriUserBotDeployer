@@ -86,7 +86,7 @@ _start_bot () {
     _run_tashrigit
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    echo "    Ⓢⓣⓐⓡⓣⓘⓝⓖ ⓁⓔⓖⓔⓝⓓⓊⓢⓔⓡⒷⓞⓣ   "
+    echo "    Ⓢⓣⓐⓡⓣⓘⓝⓖ ⓉⓐⓢⓗⓡⓘⓊⓢⓔⓡⒷⓞⓣ   "
     python3 -m Tashribot
 }
 
